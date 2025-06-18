@@ -7,7 +7,7 @@ How to Contact McAfee Customer Service?
    :caption: Contents:
 ________________________________________
 
-For Contact McAfee Customer Service Click This Link 👉
+For Contact McAfee Customer Service Click This Button: 👉
 -----------------------------
 .. image:: service.png
    :alt: My Project Logo
