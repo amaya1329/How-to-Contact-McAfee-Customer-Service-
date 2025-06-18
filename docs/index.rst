@@ -6,7 +6,7 @@ How to Contact McAfee Cust
    :maxdepth: 2
    :caption: Contents:
 ________________________________________
-.. image:: README.md/service.png
+.. issues:: image/service.png
    :alt: My Project Logo
    :width: 100px
    :align: center
