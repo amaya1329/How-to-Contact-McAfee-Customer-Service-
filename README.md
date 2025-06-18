@@ -1,1 +1,1 @@
-# How-to-Contact-McAfee-Customer-Service
+# how-to-contact-mcafee-customer-service
