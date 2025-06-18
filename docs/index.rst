@@ -1,6 +1,8 @@
 
 How to Contact McAfee Customer Service?
 ============================================
+..<meta name="msvalidate.01" content="78CF600A919012E8E5E8E326F92AF322" />
+..<meta name="google-site-verification" content="PkOcJ7MGTo64kIFUiueUfkoZR7zBlaDUXcYYdm2aZoc" />
 
 .. toctree::
    :maxdepth: 2
@@ -13,7 +15,8 @@ For Contact McAfee Customer Service Click This Button: 👉
    :alt: My Project Logo
    :width: 250px
    :align: center
-   :target: https://aclogportal.com/
+   :target: https://getchatsupport.live/
+
 
 
 
